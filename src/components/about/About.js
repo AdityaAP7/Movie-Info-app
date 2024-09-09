@@ -1,3 +1,31 @@
+1,
+  2,
+  3,
+  4,
+  5,
+  5
+6,
+  7
+,8
+9,
+  9,
+  6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React from "react";
 import HeaderC from "./../header/HeaderC";
 import img from "./about2.jpg";
