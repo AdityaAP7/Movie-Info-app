@@ -3,9 +3,7 @@
   3,
   4,
   5,
-  5
-
-
+  
 import React from "react";
 import HeaderC from "./../header/HeaderC";
 import img from "./about2.jpg";
