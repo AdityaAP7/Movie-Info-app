@@ -4,8 +4,7 @@
   4,
   5,
   5
-6,
-  
+
 
 import React from "react";
 import HeaderC from "./../header/HeaderC";
