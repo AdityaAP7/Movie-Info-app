@@ -5,10 +5,7 @@
   5,
   5
 6,
-  7
-
-
-
+  
 
 import React from "react";
 import HeaderC from "./../header/HeaderC";
