@@ -1,6 +1,4 @@
 1,
-  2,
-
 import React from "react";
 import HeaderC from "./../header/HeaderC";
 import img from "./about2.jpg";
