@@ -1,6 +1,5 @@
 1,
   2,
-  3,
 
 import React from "react";
 import HeaderC from "./../header/HeaderC";
