@@ -28,8 +28,6 @@ const Details = () => {
 
   const { movieId } = useParams();
   const dispatch = useDispatch();
-  const navigate = useNavigate();
-
 
 
 
