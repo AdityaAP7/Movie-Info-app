@@ -26,17 +26,6 @@ const Details = () => {
 
 
 
-  const { movieId } = useParams();
-
-
-
-
-
-
-
-
-
-
 
   
 
