@@ -30,7 +30,6 @@ const Details = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const state = useSelector((state) => state.details);
-    const { movieId } = useParams();
 
 
 
