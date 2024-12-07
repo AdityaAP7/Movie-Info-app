@@ -52,7 +52,6 @@ const Details = () => {
   const state = useSelector((state) => state.details);
     const { movieId } = useParams();
   const dispatch = useDispatch();
-  const navigate = useNavigate();
 
 
 
