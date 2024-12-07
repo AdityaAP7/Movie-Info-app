@@ -27,7 +27,6 @@ const Details = () => {
 
 
   const { movieId } = useParams();
-  const dispatch = useDispatch();
 
 
 
