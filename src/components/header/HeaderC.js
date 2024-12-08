@@ -7,6 +7,10 @@ const HeaderC = ({ title }) => {
     <div className="header text-white position-relative">
       <img src={img} alt="" />
       <h1 className="flex-center">{title}</h1>
+    </div> 
+     <div className="header text-white position-relative">
+      <img src={img} alt="" />
+      <h1 className="flex-center">{title}</h1>
     </div>
      <div className="header text-white position-relative">
       <img src={img} alt="" />
