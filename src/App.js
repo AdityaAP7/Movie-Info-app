@@ -77,7 +77,6 @@ return (
     )}
   </>
 );
-```
 <Route path=“/MovieInfoApp/contact” element={<Contact />} />
 <Route path=“/MovieInfoApp/*” element={<Error msg=“Page Not Found” btn=“true” height={100} />} />
 </Routes>
