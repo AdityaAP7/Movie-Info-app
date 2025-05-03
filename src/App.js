@@ -17,7 +17,6 @@ import Navbar from “./components/navbar/Navbar”;
 
 Define the App component and set up the state for page loading.
 
-```javascript
 function App() {
   const [pageLoading, setPageLoading] = useState(true);
 
