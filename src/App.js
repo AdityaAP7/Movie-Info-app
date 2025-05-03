@@ -13,8 +13,6 @@ import { useEffect, useState } from “react”;
 import PreLoader from “./components/loading/PreLoader”;
 import Footer from “./components/footer/Footer”;
 import Navbar from “./components/navbar/Navbar”;
-```
-
 Define the App component and set up the state for page loading.
 
 function App() {
