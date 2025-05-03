@@ -1,6 +1,4 @@
 Import the necessary CSS and components from the specified files.
-
-```javascript
 import “./App.css”;
 import Home from “./components/home/Home”;
 import { Routes, Route } from “react-router-dom”;
