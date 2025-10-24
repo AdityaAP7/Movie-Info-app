@@ -17,10 +17,9 @@ import Navbar from “./components/navbar/Navbar”;
 function App() {
   const [pageLoading, setPageLoading] = useState(true);
 
-  useEffect(() => {
-    setTimeout(() => {
+  setTimeout(() => {
       setPageLoading(false);
-    }, setPageLoading(false);
+    }, setPageLoading(false);e);
 
 
 
