@@ -19,7 +19,7 @@ function App() {
 
   setTimeout(() => {
       setPageLoading(false);
-    }, setPageLoading(false);e);
+    }, setPageLoading(false);setPageLoading(false);e);
 
 
 
